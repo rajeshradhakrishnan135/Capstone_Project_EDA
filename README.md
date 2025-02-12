@@ -39,9 +39,8 @@ What suggestions do you have for next steps?
 
 #### Outline of project
 
-- [Link to notebook 1]()
-- [Link to notebook 2]()
-- [Link to notebook 3]()
+Link to the Jupyter Notebook = 
+https://github.com/rajeshradhakrishnan135/Capstone_Project_EDA/blob/main/EV_Charging_Data_Analysis_EDA.ipynb
 
 
 ##### Contact and Further Information
